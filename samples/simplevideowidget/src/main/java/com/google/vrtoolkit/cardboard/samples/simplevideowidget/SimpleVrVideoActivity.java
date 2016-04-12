@@ -16,7 +16,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import java.io.IOException;
-
+//this is a version that not suppose file link..
 /**
  * A test activity that renders a 360 video using {@link VrVideoView}.
  * It loads the video in the assets by default. User can use it to load any video files using the
